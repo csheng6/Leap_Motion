@@ -1,0 +1,159 @@
+Time elapsed: 0.011
+Time elapsed: 0.01
+Time elapsed: 0.01
+Time elapsed: 0.011
+Time elapsed: 0.012
+Time elapsed: 0.01
+Time elapsed: 0.012
+Time elapsed: 0.012
+Time elapsed: 0.013
+Time elapsed: 0.013
+    Thumb finger, id: 870, length: 43.4096mm, width: 16.867
+    Index finger, id: 871, length: 48.9829mm, width: 16.1113
+    Middle finger, id: 872, length: 55.8121mm, width: 15.8235
+    Ring finger, id: 873, length: 53.6648mm, width: 15.057
+    Pinky finger, id: 874, length: 42.0722mm, width: 13.3748
+Time elapsed: 0.541
+    Thumb finger, id: 870, length: 43.4096mm, width: 16.867
+    Index finger, id: 871, length: 48.9829mm, width: 16.1113
+    Middle finger, id: 872, length: 55.8121mm, width: 15.8235
+    Ring finger, id: 873, length: 53.6648mm, width: 15.057
+    Pinky finger, id: 874, length: 42.0722mm, width: 13.3748
+Time elapsed: 0.553
+    Thumb finger, id: 870, length: 43.4096mm, width: 16.867
+    Index finger, id: 871, length: 48.9829mm, width: 16.1113
+    Middle finger, id: 872, length: 55.8121mm, width: 15.8235
+    Ring finger, id: 873, length: 53.6648mm, width: 15.057
+    Pinky finger, id: 874, length: 42.0722mm, width: 13.3748
+Time elapsed: 0.55
+    Thumb finger, id: 870, length: 43.4096mm, width: 16.867
+    Index finger, id: 871, length: 48.9829mm, width: 16.1113
+    Middle finger, id: 872, length: 55.8121mm, width: 15.8235
+    Ring finger, id: 873, length: 53.6648mm, width: 15.057
+    Pinky finger, id: 874, length: 42.0722mm, width: 13.3748
+Time elapsed: 0.469
+    Thumb finger, id: 870, length: 43.4096mm, width: 16.867
+    Index finger, id: 871, length: 48.9829mm, width: 16.1113
+    Middle finger, id: 872, length: 55.8121mm, width: 15.8235
+    Ring finger, id: 873, length: 53.6648mm, width: 15.057
+    Pinky finger, id: 874, length: 42.0722mm, width: 13.3748
+Time elapsed: 0.445
+    Thumb finger, id: 870, length: 43.4096mm, width: 16.867
+    Index finger, id: 871, length: 48.9829mm, width: 16.1113
+    Middle finger, id: 872, length: 55.8121mm, width: 15.8235
+    Ring finger, id: 873, length: 53.6648mm, width: 15.057
+    Pinky finger, id: 874, length: 42.0722mm, width: 13.3748
+Time elapsed: 0.372
+    Thumb finger, id: 870, length: 43.4096mm, width: 16.867
+    Index finger, id: 871, length: 48.9829mm, width: 16.1113
+    Middle finger, id: 872, length: 55.8121mm, width: 15.8235
+    Ring finger, id: 873, length: 53.6648mm, width: 15.057
+    Pinky finger, id: 874, length: 42.0722mm, width: 13.3748
+Time elapsed: 0.367
+    Thumb finger, id: 870, length: 43.4096mm, width: 16.867
+    Index finger, id: 871, length: 48.9829mm, width: 16.1113
+    Middle finger, id: 872, length: 55.8121mm, width: 15.8235
+    Ring finger, id: 873, length: 53.6648mm, width: 15.057
+    Pinky finger, id: 874, length: 42.0722mm, width: 13.3748
+Time elapsed: 0.342
+    Thumb finger, id: 870, length: 43.7233mm, width: 16.9888
+    Index finger, id: 871, length: 49.3368mm, width: 16.2277
+    Middle finger, id: 872, length: 56.2154mm, width: 15.9378
+    Ring finger, id: 873, length: 54.0526mm, width: 15.1658
+    Pinky finger, id: 874, length: 42.3762mm, width: 13.4715
+Time elapsed: 0.334
+    Thumb finger, id: 870, length: 43.9887mm, width: 17.092
+    Index finger, id: 871, length: 49.6363mm, width: 16.3262
+    Middle finger, id: 872, length: 56.5566mm, width: 16.0345
+    Ring finger, id: 873, length: 54.3807mm, width: 15.2579
+    Pinky finger, id: 874, length: 42.6334mm, width: 13.5532
+Time elapsed: 0.381
+    Thumb finger, id: 870, length: 44.3747mm, width: 17.242
+    Index finger, id: 871, length: 50.0719mm, width: 16.4695
+    Middle finger, id: 872, length: 57.0529mm, width: 16.1753
+    Ring finger, id: 873, length: 54.8579mm, width: 15.3918
+    Pinky finger, id: 874, length: 43.0076mm, width: 13.6722
+Time elapsed: 0.976
+    Thumb finger, id: 870, length: 45.5811mm, width: 17.7107
+    Index finger, id: 871, length: 51.4332mm, width: 16.9173
+    Middle finger, id: 872, length: 58.604mm, width: 16.615
+    Ring finger, id: 873, length: 56.3493mm, width: 15.8102
+    Pinky finger, id: 874, length: 44.1768mm, width: 14.0439
+Time elapsed: 0.65
+    Thumb finger, id: 870, length: 46.4497mm, width: 18.0482
+    Index finger, id: 871, length: 52.4133mm, width: 17.2396
+    Middle finger, id: 872, length: 59.7208mm, width: 16.9316
+    Ring finger, id: 873, length: 57.4231mm, width: 16.1115
+    Pinky finger, id: 874, length: 45.0187mm, width: 14.3115
+Time elapsed: 0.631
+    Thumb finger, id: 870, length: 47.2701mm, width: 18.367
+    Index finger, id: 871, length: 53.339mm, width: 17.5441
+    Middle finger, id: 872, length: 60.7755mm, width: 17.2307
+    Ring finger, id: 873, length: 58.4373mm, width: 16.3961
+    Pinky finger, id: 874, length: 45.8138mm, width: 14.5643
+Time elapsed: 0.518
+    Thumb finger, id: 870, length: 47.8591mm, width: 18.5958
+    Index finger, id: 871, length: 54.0037mm, width: 17.7627
+    Middle finger, id: 872, length: 61.5328mm, width: 17.4454
+    Ring finger, id: 873, length: 59.1655mm, width: 16.6004
+    Pinky finger, id: 874, length: 46.3846mm, width: 14.7457
+Time elapsed: 0.394
+    Thumb finger, id: 870, length: 47.8591mm, width: 18.5958
+    Index finger, id: 871, length: 54.0037mm, width: 17.7627
+    Middle finger, id: 872, length: 61.5328mm, width: 17.4454
+    Ring finger, id: 873, length: 59.1655mm, width: 16.6004
+    Pinky finger, id: 874, length: 46.3846mm, width: 14.7457
+Time elapsed: 0.354
+    Thumb finger, id: 870, length: 47.8591mm, width: 18.5958
+    Index finger, id: 871, length: 54.0037mm, width: 17.7627
+    Middle finger, id: 872, length: 61.5328mm, width: 17.4454
+    Ring finger, id: 873, length: 59.1655mm, width: 16.6004
+    Pinky finger, id: 874, length: 46.3846mm, width: 14.7457
+Time elapsed: 0.32
+Time elapsed: 0.013
+Time elapsed: 0.012
+Time elapsed: 0.013
+Time elapsed: 0.012
+Time elapsed: 0.013
+Time elapsed: 0.012
+Time elapsed: 0.014
+Time elapsed: 0.011
+Time elapsed: 0.011
+Time elapsed: 0.011
+Time elapsed: 0.013
+Time elapsed: 0.014
+Time elapsed: 0.015
+Time elapsed: 0.014
+Time elapsed: 0.013
+Time elapsed: 0.012
+Time elapsed: 0.012
+Time elapsed: 0.012
+Time elapsed: 0.011
+Time elapsed: 0.012
+Time elapsed: 0.012
+Time elapsed: 0.016
+Time elapsed: 0.013
+Time elapsed: 0.013
+Time elapsed: 0.014
+Time elapsed: 0.013
+Time elapsed: 0.014
+Time elapsed: 0.013
+Time elapsed: 0.011
+Time elapsed: 0.014
+Time elapsed: 0.014
+Time elapsed: 0.013
+Time elapsed: 0.014
+Time elapsed: 0.013
+Time elapsed: 0.019
+Time elapsed: 0.01
+Time elapsed: 0.013
+Time elapsed: 0.014
+Time elapsed: 0.013
+Time elapsed: 0.012
+Time elapsed: 0.011
+Time elapsed: 0.01
+Time elapsed: 0.01
+Time elapsed: 0.011
+Time elapsed: 0.01
+Time elapsed: 0.011
+Time elapsed: 0.011
